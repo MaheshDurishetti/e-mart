@@ -1,26 +1,62 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { fridgeData } from '../data/fridge'
 import NavBar from '../components/NavBar'
+import { Link } from 'react-router-dom'
+
 const FridgePage = () => {
-  return (
-     <>
-       <NavBar/>
-       <div className='pageSection'>
-    {fridgeData.map((item)=>{
-        return (
-            <div>
-            <div className='pageImg'>
-        <img src={item.image} alt=''/>
+    const [selectedProduct, setSelectedProduct] = useState([])
+
+    const companyHandler = (company) => {
+        if (selectedProduct.includes(company)) {
+            setSelectedProduct(selectedProduct.filter(item => item !== company))
+        } else {
+            setSelectedProduct([...selectedProduct, company])
+        }
+    }
+
+    const uniqueCompanies = [...new Set(fridgeData.map(item => item.company))]
+
+    const filteredProducts = selectedProduct.length === 0
+        ? fridgeData
+        : fridgeData.filter(item => selectedProduct.includes(item.company))
+
+    return (
+        <>
+            <NavBar />
+            <div className="fullpage">
+              
+                <div className="proselected">
+                    {uniqueCompanies.map((company, index) => (
+                        <div key={index}>
+                            <label>
+                                <input
+                                    type="checkbox"
+                                    checked={selectedProduct.includes(company)}
+                                    onChange={() => companyHandler(company)}
+                                />
+                                {company}
+                            </label>
+                        </div>
+                    ))}
+                </div>
+
+                <div className='pageSection'>
+                    {filteredProducts.map((item) => (
+                        <div key={item.id}>
+                            <Link to={`/fridge/${item.id}`}>
+                                <div className='pageImg'>
+                                    <img src={item.image} alt='' />
+                                </div>
+                            </Link>
+                            <div className='proModel'>
+                                {item.company}
+                            </div>
+                        </div>
+                    ))}
+                </div>
             </div>
-            <div className='proModel'>
-                {item.title}
-            </div>
-            </div>
-          
-        )
-    })}
-       </div>
-       </>  )
+        </>
+    )
 }
 
 export default FridgePage

@@ -1,5 +1,7 @@
 export const speakerData=[
   {
+    "id":"1",
+    "image":"/assets/Speaker/1.jpg",
     "product": "Speaker",
     "brand": "Bose",
     "model": "SoundLink Revolve",
@@ -8,6 +10,8 @@ export const speakerData=[
     "description": "A portable Bluetooth speaker with 360-degree sound and long battery life."
   },
   {
+    "id":"2",
+    "image":"/assets/Speaker/2.jpg",
     "product": "Speaker",
     "brand": "Sonos",
     "model": "One SL",
@@ -16,6 +20,8 @@ export const speakerData=[
     "description": "A compact speaker with rich sound and the ability to pair with other Sonos speakers."
   },
   {
+    "id":"3",
+    "image":"/assets/Speaker/3.jpg",
     "product": "Speaker",
     "brand": "JBL",
     "model": "Flip 5",
@@ -24,6 +30,8 @@ export const speakerData=[
     "description": "A waterproof portable speaker with powerful bass and vibrant colors."
   },
   {
+    "id":"4",
+    "image":"/assets/Speaker/4.jpg",
     "product": "Speaker",
     "brand": "Sony",
     "model": "SRS-XB43",
@@ -32,6 +40,8 @@ export const speakerData=[
     "description": "A high-powered Bluetooth speaker with extra bass and built-in party lights."
   },
   {
+    "id":"5",
+    "image":"/assets/Speaker/5.jpg",
     "product": "Speaker",
     "brand": "Ultimate Ears",
     "model": "MEGABOOM 3",
@@ -40,6 +50,8 @@ export const speakerData=[
     "description": "A rugged and waterproof speaker with 360-degree sound and customizable EQ."
   },
   {
+    "id":"6",
+    "image":"/assets/Speaker/6.jpg",
     "product": "Speaker",
     "brand": "Harman Kardon",
     "model": "Aura Studio 3",
@@ -48,6 +60,8 @@ export const speakerData=[
     "description": "A visually striking speaker with ambient lighting and powerful audio quality."
   },
   {
+    "id":"7",
+    "image":"/assets/Speaker/7.jpg",
     "product": "Speaker",
     "brand": "Anker",
     "model": "Soundcore Flare",
@@ -56,6 +70,8 @@ export const speakerData=[
     "description": "A portable speaker with 360-degree sound, customizable lighting, and IPX7 waterproof rating."
   },
   {
+    "id":"8",
+    "image":"/assets/Speaker/8.jpg",
     "product": "Speaker",
     "brand": "Marshall",
     "model": "Stanmore II",
@@ -64,6 +80,8 @@ export const speakerData=[
     "description": "A vintage-styled speaker with classic rock aesthetics and powerful audio output."
   },
   {
+    "id":"9",
+    "image":"/assets/Speaker/9.jpg",
     "product": "Speaker",
     "brand": "Bose",
     "model": "Home Speaker 500",
@@ -72,6 +90,8 @@ export const speakerData=[
     "description": "A smart speaker with voice control and spacious sound, suitable for home audio."
   },
   {
+    "id":"10",
+    "image":"/assets/Speaker/10.jpg",
     "product": "Speaker",
     "brand": "Yamaha",
     "model": "MusicCast 20",
@@ -80,6 +100,8 @@ export const speakerData=[
     "description": "A wireless speaker with multi-room audio support and clear sound quality."
   },
   {
+    "id":"11",
+    "image":"/assets/Speaker/11.jpg",
     "product": "Speaker",
     "brand": "Bang & Olufsen",
     "model": "Beoplay A9",
@@ -88,6 +110,8 @@ export const speakerData=[
     "description": "A high-end wireless speaker with a distinctive design and exceptional sound."
   },
   {
+    "id":"12",
+    "image":"/assets/Speaker/12.jpg",
     "product": "Speaker",
     "brand": "UE",
     "model": "BOOM 2",

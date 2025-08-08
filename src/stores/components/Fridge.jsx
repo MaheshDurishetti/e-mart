@@ -5,7 +5,7 @@ const Fridge = () => {
    return (
     <>
     <div className='protitle'>
-      <h2>Fridge</h2>
+      <h2 >Fridge</h2>
     </div>
     
      <div className='proSection'>

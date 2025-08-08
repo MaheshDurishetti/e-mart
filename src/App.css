@@ -7,6 +7,17 @@
   padding: 0 20px;
   height: 80px;
 }
+.scrolling-text {
+  white-space: nowrap;
+  display: inline-block;
+  animation: scrollRight 20s linear infinite;
+  font-size: 20px;
+}
+@keyframes scrollRight {
+  0% { transform: translateX(-200%); }
+  100% { transform: translateX(200%); }
+}
+
 .search input{
   padding: 8px;
   border-radius: 4px;

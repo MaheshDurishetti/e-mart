@@ -1,5 +1,7 @@
-export const fridgeData=[
+export const furnitureData=[
   {
+     "id":"1",
+    "image":"/assets/Furniture/1.jpg",
     "product": "Furniture",
     "type": "Sofa",
     "brand": "IKEA",
@@ -9,6 +11,8 @@ export const fridgeData=[
     "description": "A comfortable and modern sofa with plush cushions and a sleek design."
   },
   {
+     "id":"2",
+    "image":"/assets/Furniture/2.jpg",
     "product": "Furniture",
     "type": "Dining Table",
     "brand": "Wayfair",
@@ -18,6 +22,8 @@ export const fridgeData=[
     "description": "An elegant dining table with solid wood construction and expandable design."
   },
   {
+     "id":"3",
+    "image":"/assets/Furniture/3.jpg",
     "product": "Furniture",
     "type": "Bed",
     "brand": "Ashley Furniture",
@@ -27,6 +33,8 @@ export const fridgeData=[
     "description": "A stylish and comfortable bed with upholstered headboard and durable frame."
   },
   {
+     "id":"4",
+    "image":"/assets/Furniture/4.jpg",
     "product": "Furniture",
     "type": "Coffee Table",
     "brand": "West Elm",
@@ -36,6 +44,8 @@ export const fridgeData=[
     "description": "A modern coffee table with a blend of materials, adding character to your living room."
   },
   {
+     "id":"5",
+    "image":"/assets/Furniture/5.jpg",
     "product": "Furniture",
     "type": "Wardrobe",
     "brand": "Houzz",
@@ -45,6 +55,8 @@ export const fridgeData=[
     "description": "A space-saving wardrobe with versatile storage compartments and sleek appearance."
   },
   {
+     "id":"6",
+    "image":"/assets/Furniture/6.jpg",
     "product": "Furniture",
     "type": "Bookshelf",
     "brand": "Crate & Barrel",
@@ -54,6 +66,8 @@ export const fridgeData=[
     "description": "A functional bookshelf with adjustable shelves, suitable for any room."
   },
   {
+     "id":"7",
+    "image":"/assets/Furniture/7.jpg",
     "product": "Furniture",
     "type": "Desk",
     "brand": "Staples",
@@ -63,6 +77,8 @@ export const fridgeData=[
     "description": "A spacious office desk with ergonomic design and ample storage."
   },
   {
+     "id":"8",
+    "image":"/assets/Furniture/8.jpg",
     "product": "Furniture",
     "type": "Bar Stool",
     "brand": "Target",
@@ -72,6 +88,8 @@ export const fridgeData=[
     "description": "An urban chic bar stool with a contemporary look, perfect for kitchen islands."
   },
   {
+     "id":"9",
+    "image":"/assets/Furniture/9.jpg",
     "product": "Furniture",
     "type": "Dresser",
     "brand": "Pottery Barn",
@@ -81,6 +99,8 @@ export const fridgeData=[
     "description": "A rustic dresser with ample storage space and charming distressed finish."
   },
   {
+     "id":"10",
+    "image":"/assets/Furniture/10.jpg",
     "product": "Furniture",
     "type": "Couch",
     "brand": "Crate & Barrel",
@@ -90,6 +110,8 @@ export const fridgeData=[
     "description": "A comfortable couch with deep seating and modern design, perfect for lounging."
   },
   {
+     "id":"11",
+    "image":"/assets/Furniture/11.jpg",
     "product": "Furniture",
     "type": "Side Table",
     "brand": "CB2",
@@ -99,6 +121,8 @@ export const fridgeData=[
     "description": "A minimalist side table with clean lines, adding functionality to any space."
   },
   {
+     "id":"12",
+    "image":"/assets/Furniture/12.jpg",
     "product": "Furniture",
     "type": "Bedside Table",
     "brand": "Ethan Allen",

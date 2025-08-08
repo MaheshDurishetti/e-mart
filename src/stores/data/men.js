@@ -1,6 +1,7 @@
 export const mensData=[
   {
     "id":"1",
+    "image":"/assets/Men/1.jpg",
     "product": "Menswear",
     "type": "T-Shirt",
     "brand": "Nike",
@@ -10,6 +11,8 @@ export const mensData=[
     "description": "A comfortable and stylish sporty t-shirt with moisture-wicking fabric."
   },
   {
+    "id":"2",
+    "image":"/assets/Men/2.jpg",
     "product": "Menswear",
     "type": "Dress Shirt",
     "brand": "Calvin Klein",
@@ -19,6 +22,8 @@ export const mensData=[
     "description": "A classic fit dress shirt made from high-quality fabric, suitable for formal occasions."
   },
   {
+    "id":"3",
+    "image":"/assets/Men/3.jpg",
     "product": "Menswear",
     "type": "Jeans",
     "brand": "Levi's",
@@ -28,6 +33,8 @@ export const mensData=[
     "description": "Slim fit jeans with a modern look, perfect for casual outings."
   },
   {
+    "id":"4",
+    "image":"/assets/Men/4.jpg",
     "product": "Menswear",
     "type": "Polo Shirt",
     "brand": "Ralph Lauren",
@@ -37,6 +44,8 @@ export const mensData=[
     "description": "A classic polo shirt with the iconic Ralph Lauren logo, ideal for a refined casual look."
   },
   {
+    "id":"5",
+    "image":"/assets/Men/5.jpg",
     "product": "Menswear",
     "type": "Jacket",
     "brand": "The North Face",
@@ -46,6 +55,8 @@ export const mensData=[
     "description": "A versatile softshell jacket designed for outdoor activities and everyday wear."
   },
   {
+    "id":"6",
+    "image":"/assets/Men/6.jpg",
     "product": "Menswear",
     "type": "Shorts",
     "brand": "Under Armour",
@@ -55,6 +66,8 @@ export const mensData=[
     "description": "Lightweight and breathable mesh shorts for workouts and active lifestyles."
   },
   {
+    "id":"7",
+    "image":"/assets/Men/7.jpg",
     "product": "Menswear",
     "type": "Sweater",
     "brand": "Tommy Hilfiger",
@@ -64,6 +77,8 @@ export const mensData=[
     "description": "A classic crewneck sweater made from soft and comfortable materials."
   },
   {
+    "id":"8",
+    "image":"/assets/Men/8.jpg",
     "product": "Menswear",
     "type": "Suit",
     "brand": "Hugo Boss",
@@ -73,6 +88,8 @@ export const mensData=[
     "description": "A modern-fit suit crafted with attention to detail, perfect for formal occasions."
   },
   {
+    "id":"9",
+    "image":"/assets/Men/9.jpg",
     "product": "Menswear",
     "type": "Hoodie",
     "brand": "Adidas",
@@ -82,6 +99,8 @@ export const mensData=[
     "description": "A comfortable and stylish hoodie with the Adidas logo, suitable for everyday wear."
   },
   {
+    "id":"10",
+    "image":"/assets/Men/10.jpg",
     "product": "Menswear",
     "type": "Chinos",
     "brand": "Dockers",
@@ -91,6 +110,8 @@ export const mensData=[
     "description": "Versatile chino pants with a modern slim fit, suitable for casual and semi-formal occasions."
   },
   {
+    "id":"11",
+    "image":"/assets/Men/11.jpg",
     "product": "Menswear",
     "type": "Swim Trunks",
     "brand": "Speedo",
@@ -100,6 +121,8 @@ export const mensData=[
     "description": "Durable and comfortable swim trunks designed for performance and comfort in the water."
   },
   {
+    "id":"12",
+    "image":"/assets/Men/12.jpg",
     "product": "Menswear",
     "type": "Blazer",
     "brand": "Brooks Brothers",

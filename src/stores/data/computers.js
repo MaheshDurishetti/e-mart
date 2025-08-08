@@ -1,7 +1,7 @@
 export const computersData=[
   {
      "id":"1",
-    "image":"/assets/Computers/5.jpg",
+    "image":"/assets/Computers/1.jpg",
     "product": "Computer",
     "brand": "Dell",
     "model": "Inspiron 15",
@@ -11,7 +11,7 @@ export const computersData=[
   },
   {
     "id":"2",
-    "image":"/assets/Computers/5.jpg",
+    "image":"/assets/Computers/2.jpg",
     "product": "Computer",
     "brand": "HP",
     "model": "Pavilion 27",
@@ -21,7 +21,7 @@ export const computersData=[
   },
   {
     "id":"3",
-    "image":"/assets/Computers/5.jpg",
+    "image":"/assets/Computers/3.jpg",
     "product": "Computer",
     "brand": "Apple",
     "model": "MacBook Air",
@@ -31,7 +31,7 @@ export const computersData=[
   },
   {
     "id":"4",
-    "image":"/assets/Computers/5.jpg",
+    "image":"/assets/Computers/4.jpg",
     "product": "Computer",
     "brand": "Lenovo",
     "model": "IdeaPad Flex",

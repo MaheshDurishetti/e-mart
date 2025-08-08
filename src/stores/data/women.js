@@ -1,5 +1,7 @@
 export const womensData=[
   {
+    "id":"1",
+    "image":"/assets/Kitchen/1.jpg",
     "product": "Woman Wear",
     "type": "Dress",
     "brand": "Zara",
@@ -9,6 +11,8 @@ export const womensData=[
     "description": "A flowy maxi dress with floral patterns, perfect for summer occasions."
   },
   {
+    "id":"1",
+    "image":"/assets/Women/1.jpg",
     "product": "Woman Wear",
     "type": "Blouse",
     "brand": "H&M",
@@ -18,6 +22,8 @@ export const womensData=[
     "description": "A classic silk blouse suitable for professional and casual settings."
   },
   {
+    "id":"3",
+    "image":"/assets/Women/3.jpg",
     "product": "Woman Wear",
     "type": "Jeans",
     "brand": "Levi's",
@@ -27,6 +33,8 @@ export const womensData=[
     "description": "Skinny fit jeans with a classic 5-pocket design, perfect for everyday wear."
   },
   {
+    "id":"4",
+    "image":"/assets/Women/4.jpg",
     "product": "Woman Wear",
     "type": "Jumpsuit",
     "brand": "Forever 21",
@@ -35,7 +43,9 @@ export const womensData=[
     "category": "Clothing",
     "description": "A utility-style jumpsuit with a modern and versatile look."
   },
-  {
+  { 
+    "id":"5",
+    "image":"/assets/Women/5.jpg",
     "product": "Woman Wear",
     "type": "Skirt",
     "brand": "Topshop",
@@ -45,6 +55,8 @@ export const womensData=[
     "description": "A stylish A-line mini skirt with a retro touch, suitable for various occasions."
   },
   {
+    "id":"6",
+    "image":"/assets/Women/6.jpg",
     "product": "Woman Wear",
     "type": "Sweater",
     "brand": "Gap",
@@ -54,6 +66,8 @@ export const womensData=[
     "description": "A cozy cable knit sweater with a timeless design, perfect for chilly days."
   },
   {
+    "id":"7",
+    "image":"/assets/Women/7.jpg",
     "product": "Woman Wear",
     "type": "Blazer",
     "brand": "Mango",
@@ -63,6 +77,8 @@ export const womensData=[
     "description": "A tailored blazer with a chic silhouette, suitable for formal and casual looks."
   },
   {
+    "id":"8",
+    "image":"/assets/Women/8.jpg",
     "product": "Woman Wear",
     "type": "Activewear",
     "brand": "Lululemon",
@@ -72,6 +88,8 @@ export const womensData=[
     "description": "High-quality leggings with a buttery soft feel, ideal for yoga and workouts."
   },
   {
+    "id":"9",
+    "image":"/assets/Women/9.jpg",
     "product": "Woman Wear",
     "type": "Swimwear",
     "brand": "Victoria's Secret",
@@ -81,6 +99,8 @@ export const womensData=[
     "description": "A stylish bikini set with vibrant patterns, perfect for beach days."
   },
   {
+    "id":"10",
+    "image":"/assets/Women/10.jpg",
     "product": "Woman Wear",
     "type": "Pants",
     "brand": "Hollister",
@@ -90,6 +110,8 @@ export const womensData=[
     "description": "High-rise skinny pants with a flattering fit, suitable for various occasions."
   },
   {
+    "id":"11",
+    "image":"/assets/Women/11.jpg",
     "product": "Woman Wear",
     "type": "Coat",
     "brand": "Zadig & Voltaire",
@@ -98,7 +120,9 @@ export const womensData=[
     "category": "Clothing",
     "description": "A stylish wool blend coat with a modern and elegant design, perfect for colder days."
   },
-  {
+  { 
+    "id":"12",
+    "image":"/assets/Women/12.jpg",
     "product": "Woman Wear",
     "type": "T-Shirt",
     "brand": "American Eagle",

@@ -1,5 +1,7 @@
 export const tvData=[
   {
+    "id":"1",
+    "image":"/assets/TV/1.jpg",
     "product": "TV",
     "brand": "LG",
     "model": "OLED CX Series",
@@ -8,6 +10,8 @@ export const tvData=[
     "description": "A high-end OLED TV with stunning picture quality and smart features."
   },
   {
+    "id":"2",
+    "image":"/assets/TV/2.jpg",
     "product": "TV",
     "brand": "Sony",
     "model": "Bravia X90J",
@@ -16,6 +20,8 @@ export const tvData=[
     "description": "A 4K LED TV with advanced processing and immersive audio technology."
   },
   {
+    "id":"3",
+    "image":"/assets/TV/3.jpg",
     "product": "TV",
     "brand": "Samsung",
     "model": "QLED Q80A",
@@ -24,6 +30,8 @@ export const tvData=[
     "description": "A QLED TV with vibrant colors and impressive upscaling capabilities."
   },
   {
+    "id":"4",
+    "image":"/assets/TV/4.jpg",
     "product": "TV",
     "brand": "TCL",
     "model": "6-Series",
@@ -32,6 +40,8 @@ export const tvData=[
     "description": "An affordable 4K TV with Dolby Vision HDR and Roku smart platform."
   },
   {
+    "id":"5",
+    "image":"/assets/TV/5.jpg",
     "product": "TV",
     "brand": "Vizio",
     "model": "P-Series Quantum",
@@ -40,6 +50,8 @@ export const tvData=[
     "description": "A quantum dot 4K TV with high brightness and local dimming zones."
   },
   {
+    "id":"6",
+    "image":"/assets/TV/6.jpg",
     "product": "TV",
     "brand": "Hisense",
     "model": "U8G Series",
@@ -48,6 +60,8 @@ export const tvData=[
     "description": "A ULED TV with impressive contrast and support for various HDR formats."
   },
   {
+    "id":"7",
+    "image":"/assets/TV/7.jpg",
     "product": "TV",
     "brand": "Panasonic",
     "model": "HZ2000",
@@ -56,6 +70,8 @@ export const tvData=[
     "description": "A flagship OLED TV with customized professional-grade picture quality."
   },
   {
+    "id":"8",
+    "image":"/assets/TV/8.jpg",
     "product": "TV",
     "brand": "Sharp",
     "model": "Aquos R5G",
@@ -64,6 +80,8 @@ export const tvData=[
     "description": "A 5G-compatible 4K TV with detailed images and advanced connectivity."
   },
   {
+    "id":"9",
+    "image":"/assets/TV/9.jpg",
     "product": "TV",
     "brand": "Philips",
     "model": "Ambilight 4K",
@@ -72,6 +90,8 @@ export const tvData=[
     "description": "A 4K TV with Ambilight technology, creating an immersive viewing experience."
   },
   {
+    "id":"10",
+    "image":"/assets/TV/10.jpg",
     "product": "TV",
     "brand": "Sceptre",
     "model": "X438BV-FSR",
@@ -80,6 +100,8 @@ export const tvData=[
     "description": "An affordable full HD TV with basic features for everyday entertainment."
   },
   {
+    "id":"11",
+    "image":"/assets/TV/11.jpg",
     "product": "TV",
     "brand": "Insignia",
     "model": "Fire TV Edition",
@@ -88,6 +110,8 @@ export const tvData=[
     "description": "A budget-friendly 4K TV with built-in Fire TV and Alexa voice control."
   },
   {
+    "id":"12",
+    "image":"/assets/TV/12.jpg",
     "product": "TV",
     "brand": "Samsung",
     "model": "The Frame",
