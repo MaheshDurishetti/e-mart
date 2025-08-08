@@ -8,7 +8,7 @@ import Watches from './Watches'
 import Mens from './Mens'
 import WoMens from './WoMens'
 import Kitchen from './Kitchen'
-import Furniture from './furniture'
+import Furniture from './Furniture'
 const Products = () => {
   return (
     <div style={{textAlign:"center"}}>
